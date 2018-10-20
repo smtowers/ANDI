@@ -1,0 +1,12 @@
+Package: ANDI
+Title: An R package with methods to estimate the Average Number of Descendant Infections (ANDI) for a Susceptible, Infected, Recovered disease model
+Version: 0.0.0.9000
+Authors@R: person("Sherry", "Towers", email = "smtowers@asu.edu", role = c("aut", "cre"))
+Description: An R package with methods to estimate the Average Number of Descendant Infections (ANDI) for deterministic and Agent Based Monte Carlo Susceptible, Infected, Recovered disease models
+Depends: R (>= 3.4.3)
+Imports:
+   deSolve
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
