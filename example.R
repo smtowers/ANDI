@@ -4,6 +4,7 @@ rm(list = ls(all = TRUE))
 #require("devtools")
 #install_github("smtowers/ANDI")
 require("ANDI")
+require("deSolve")
 
 N = 1000
 I0 = 1
